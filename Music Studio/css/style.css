@@ -1,0 +1,36 @@
+body{
+ position: relative;
+ margin: 0;
+}
+.cover{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-size: cover;
+    filter: blur(5px);
+    transform: scale(1.2);
+}
+.player{
+    background-color: rgb(216, 215, 212);
+    display: inline-block;
+    height: 120px;
+    width: 200px;
+    position: relative;
+    left: center;
+  
+    
+}
+.main{
+    display: inline-block;
+    
+}
+.text{
+    display: inline-block;
+}
+.time{
+    position: relative;
+    left: 165px;
+}
