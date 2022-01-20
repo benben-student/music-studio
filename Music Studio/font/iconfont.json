@@ -1,0 +1,30 @@
+{
+  "id": "3154677",
+  "name": "font",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14464868",
+      "name": "player-skip-back",
+      "font_class": "playe-up",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "14464869",
+      "name": "player-skip-forward",
+      "font_class": "play-nrext",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "24159151",
+      "name": "119-player-pause",
+      "font_class": "play-stop",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    }
+  ]
+}
