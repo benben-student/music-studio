@@ -1,30 +1,37 @@
 {
-  "id": "3154677",
-  "name": "font",
+  "id": "3169741",
+  "name": "no name",
   "font_family": "iconfont",
   "css_prefix_text": "icon-",
   "description": "",
   "glyphs": [
     {
-      "icon_id": "14464868",
-      "name": "player-skip-back",
-      "font_class": "playe-up",
-      "unicode": "e615",
-      "unicode_decimal": 58901
+      "icon_id": "10304502",
+      "name": "icon_player",
+      "font_class": "playing",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
     },
     {
-      "icon_id": "14464869",
-      "name": "player-skip-forward",
-      "font_class": "play-nrext",
-      "unicode": "e616",
-      "unicode_decimal": 58902
+      "icon_id": "10562548",
+      "name": "Player, pause",
+      "font_class": "pause",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
     },
     {
-      "icon_id": "24159151",
-      "name": "119-player-pause",
-      "font_class": "play-stop",
-      "unicode": "e671",
-      "unicode_decimal": 58993
+      "icon_id": "14538736",
+      "name": "player forward_filled",
+      "font_class": "play-right",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "14538744",
+      "name": "player back_filled",
+      "font_class": "play-left",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
     }
   ]
 }
