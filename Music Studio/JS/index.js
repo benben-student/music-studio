@@ -50,6 +50,7 @@
 //   curMusic = musicList[index]
 //   audioObject.src = curMusic.src
 // }
+console.log();
 console.log("hello world");
 let a=1
 let $playingBtn=document.querySelector('.icon-playing')
