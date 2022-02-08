@@ -47,6 +47,7 @@ setInterval(function(){
   let totalTime=audioObject.duration
   let percent=curTime/totalTime
   $progress.style.width=precent*100+'%'
+  console.log(curTime,totalTime)
 },1000)
 $playingBtn.onclick = function () {
   if (this.classList.contains('icon-playing')) {
